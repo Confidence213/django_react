@@ -1,0 +1,4 @@
+admin user account
+
+username: finny
+password: finny (same)
