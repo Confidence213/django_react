@@ -8,7 +8,7 @@ class Product(models.Model):
     price = models.CharField(max_length=50)
     stock = models.CharField(max_length=50)
     is_active = models.BooleanField(default=True, blank=True)
-    image = models.ImageField(uplaod_to='images/', blank=True, null=True)
+    image = models.ImageField(upload_to='images/', blank=True, null=True)
     category = models.ForeignKey(Category, on_delete=models.SET_NULL, blank=True, null=True)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
