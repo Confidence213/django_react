@@ -2,6 +2,13 @@
 
 Creating ecommerce fullstack application using **React** in frontend and **Django** in backend. While creating the application I have used pip virtual enviroment. 
 
+## Libraries Installed
+Libraries which were used to create **Ecom** are as follows:
+- Pipenv
+- Django
+- Django Rest Framework
+- Postman
+
 ## Installation
 Pip Virtual Enviroment
 ```bash
@@ -25,7 +32,5 @@ Run Django Project
 python manage.py runserver
 ```
 
-## About
-
-In Development
+> **Note:** The code is not bug free, It will be updated soon
 
