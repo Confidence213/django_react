@@ -2,10 +2,6 @@
 
 Creating ecommerce fullstack application using **React** in frontend and **Django** in backend. While creating the application I have used pip virtual enviroment. 
 
-## About
-
-In Development
-
 ## Installation
 Pip Virtual Enviroment
 ```bash
@@ -29,6 +25,7 @@ Run Django Project
 python manage.py runserver
 ```
 
+## About
 
-
+In Development
 
